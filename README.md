@@ -4,14 +4,15 @@
   - [Add Course](#add-course)
     - [Course Codes](#course-codes)
 
-
-
-
-
 ## Add Course
-Each course repository's name should be in one of the below patterns
-- {Course code}-{Course name} for theoretical courses. e.g.: CE001-C
-- {Course code}-{Course name}-Lab for practical courses. e.g.: CE001-C-Lab
+Each course repository name should be matched with one of the following patterns:
+- {Course code}-{Course name} for theoretical courses. e.g.: CE000-C
+- {Course code}-{Course name}-Lab for practical courses. e.g.: CE000-C-Lab
+
+Each course repository description should contain the names of instructors.
+
+Each semester of the course should be added to a directory in the repository.
+
 ### Course Codes 
 | Code  | Course Name                                     | عنوان درس                                 |
 | ----- |:------------------------------------------------| -----------------------------------------:|
