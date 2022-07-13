@@ -1,6 +1,6 @@
 <h1 align='center'>
       Shahid Beheshti University - Faculty of Computer Engineering
-      <img src='image/faculty.jpg' alt='faculty'>
+      <img src='https://github.com/SBU-CE/.github/blob/main/profile/image/faculty.jpg' alt='faculty'>
 </h1>
 
 
