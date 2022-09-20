@@ -25,7 +25,8 @@ Each semester of the course should be added to a directory in the repository.
 | CE125 | [Linear Algebra (LA)](https://github.com/SBU-CE/Linear-Algebra)                             | جبر خطی                                   | 
 | CE063 | Signals And Systems	                          | سیگنال‌ها و سیستم‌ها                     | 
 | CE022 | Technical English	                              | زبان تخصصی                                |
-| CE115 | Database	    (DB)                              | پایگاه داده ها                           | 
+| CE115 | Database	    (DB)                              | پایگاه داده ها                           |
+| CE126 | [Machine Learning (ML) ](https://github.com/SBU-CE/Machine-Learning)                               | مبانی یادگیری ماشین                     |
 | CE004 | [Engineering Probability And Statistics](https://github.com/SBU-CE/Statistics) 	      | آمار و احتمالات مهندسی         |          
 | CE013 | Theory Of Machines And Languages (FLA)          | نظریه ‌زبان‌ها و ماشین‌ها                  |
 | CE011 | Computer Architecture	(CA)                      | معماری کامپیوتر                           |
